@@ -1,0 +1,37 @@
+# Each entry has the following schema:
+#
+# - title: mytitle   # Title of chapter or subchapter
+#   file: myfile  # filename relative to the  folder.
+#   sections:  # Contains a list of more entries that make up the chapter's subchapters
+#
+# Below are some special values that trigger specific behavior:
+# - header: My Header  # Will insert a header with no link in the sidebar
+
+# ===== Main Landing Page ========================================
+format: jb-book
+root: index
+chapters:
+  # ===== Foreword Section ========================================
+  - file: foreword/foreword
+    sections:
+      - title: Background
+        file: foreword/background
+
+  # ===== Guide for Reproducible Research ========================================
+  - file: reproducible-research/reproducible-research
+    sections:
+      - title: Overview
+        file: reproducible-research/overview
+        sections:
+          - title: Definitions
+            file: reproducible-research/overview/overview-definitions
+
+
+  # ===== Guide for Project Design ========================================
+  - file: project-design/project-design
+    sections:
+      - title: Overview of Project Design
+        file: project-design/pd-overview
+        sections:
+          - title: Reproducibility Methods
+            file: project-design/pd-overview/pd-overview-methods

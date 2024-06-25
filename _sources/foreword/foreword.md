@@ -1,5 +1,5 @@
 (fw)=
-# Foreword
+# Dionysus
 
 ```{note}
 This section has been recently added, and some chapters are still being reviewed by the project delivery team and community members. If you notice any error, please raise an issue on our GitHub repository.

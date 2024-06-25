@@ -1,25 +1,8 @@
 (welcome)=
-# Welcome
+# Series Editor
 
-*Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
 
-_The Turing Way_ project is open source, open collaboration, and community-driven.
-We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
-Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
-
-```{admonition} Top Tip
-:class: tip
-_The Turing Way_ is not meant to be read from start to finish.
-Start with a concept, tool or method that you need now, in your current work.
-Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
-```
-
-All stakeholders from any level of experience or domain expertise are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science and research.
-You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
-
-In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this project, how to cite the book and opportunities to get involved.
-
-```{figure} figures/theturingway-pathway.*
+```{figure} https://upload.wikimedia.org/wikipedia/commons/6/6f/Top_StackOverflow_Tags.png
 ---
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
@@ -27,11 +10,50 @@ alt: The Turing Way project is illustrated as a road or path with shops for diff
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
+All code used by students, instructors, and other faculty from the past, current, and future should be readily, but voluntarily, available to the jh-gh-community
+
+We’ll focus on three languages for the following reasons:
+1. Entrenched usage of the commercially available Stata
+2. Open-source & free availability of R & Python
+3. GPT-4o yields very accurate code for python (usage data)
+
+Most of what is done is Stata labs can be encoded into a brief Jupter-book, with code in Python, R, and Stata 
+
+####  Dionysus 
+- Challenges (honestly, unselectively embrace past, current, future)  
+- Skills (table 1, figure 1, grants, databases)
+- Tools (python, ai, r, stata)
+
+####  Sing O Muse
+- Jupyter-book series on GitHub (Six)
+
+####  Apollo 
+- Iterate-dynamically-collaboratively 
+- By students & instructors at both SOM & JHSPH  
+
+```{admonition} Top Tip
+:class: tip
+*Let's iterate, dynamically, collaboratively ..., openly*
+```
+
+In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this project, how to cite the book and opportunities to get involved.
+
+
+```{figure} https://abikesa.github.io/zarathustra/python.png
+---
+name: welcome-image
+alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
+---
+_JH-GH_ project illustration by ADM. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
+
+
+
 The book is collaboratively written and built in the open from the start.
 You can explore different opportunities to get involved on the [start page](https://the-turing-way.start.page/).
 Join [our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas and [subscribe to our newsletter](https://buttondown.email/turingway) to follow updates from our community.
 
-## Different Pathways
+## Varous Pathways
 
 (welcome-community)=
 ## Our Community
@@ -39,20 +61,11 @@ Join [our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/z
 _The Turing Way_ community is dedicated to making collaborative, reusable and transparent research "too easy not to do".
 That means investing in the socio-technical skills required to work in a team, to build something more significant than any individual could deliver alone.
 
-_The Turing Way_ is:
+_JH on GH_ is:
 
-* a book
+* a book series
 * a community
-* a global collaboration
-
-We hope you find the content in the book helpful.
-Everything here is available for free under a [CC-BY licence](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md).
-Please use and re-use whatever you need, for any purpose.
-
-_The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), however, the project is designed to be a global collaboration.
-We have contributions from across the UK, and from India, Mexico, Australia, the USA, and many European countries.
-Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and industry.
-We are committed to creating a space where people with diverse expertise and experiences can share their knowledge with others, together supporting each other in using data science to improve the world.
+* a [global](https://jhufena.github.io/home/intro.html) collaboration
 
 ```{admonition} Translation
 :class: tip

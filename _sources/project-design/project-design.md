@@ -5,6 +5,9 @@
 
 In this guide, we compile best practices and guidance for designing research projects by including different aspects of project management and (iterative) development practices derived from academia and industry.
 
+<iframe src="app/risk.html" width="100%" height="600px" style="border:none;">
+</iframe>
+
 Before starting a project, researchers must define the project's scope. 
 Researchers should start by identifying the main questions they aim to address through their work. Scope definition also includes defining the project goals, possible outcomes, resources requirements, people involved (collaborators, users and target audience) and possible constraints.
 

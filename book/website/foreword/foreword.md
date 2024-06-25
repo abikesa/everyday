@@ -24,13 +24,13 @@ You will find these details in the following chapters:
 - {ref}`fw-cite`
 - {ref}`fw-faqs`
 
-```{figure} ../figures/banner-welcome.jpg
+```{figure} https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d0cfb39-6642-45e3-837c-df602bdfb3f0/d4q8nlj-4e449a70-8c69-46bf-818e-9b11911911fc.jpg/v1/fill/w_900,h_784,q_75,strp/dionysus_by_daughtergothel_d4q8nlj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzg0IiwicGF0aCI6IlwvZlwvNGQwY2ZiMzktNjY0Mi00NWUzLTgzN2MtZGY2MDJiZGZiM2YwXC9kNHE4bmxqLTRlNDQ5YTcwLThjNjktNDZiZi04MThlLTliMTE5MTE5MTFmYy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.7QT459UTFm-bcwEqp9vQcosrij11WXINqlf89jjyX3I
 ---
 width: 500px
 name: banner-welcome
 alt: Two people, a woman and a man, waving next to a banner that says - welcome.
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_Create & Destroy Everyday_ project illustration by ?. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
 We hope these resources will help you navigate, understand and be part of our community.

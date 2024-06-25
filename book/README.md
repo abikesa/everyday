@@ -7,7 +7,9 @@ cd ~/documents/liveserver/cnd/book/website
 pip install -r requirements.txt && jupyter-book build .
 mv project-design/app _build/html/project-design/app
 cd ~/documents/liveserver
-new/jbb_https.sh
+~/documents/liveserver/new/jbb_https.sh
+# cd cnd/book/website
+ghp-import -n -p -f _build/html
 ```
 
 I apologize for the confusion. It seems the issue is more complex than initially thought. The error you're encountering is related to numpy installation, which is failing due to compatibility issues with your Python version.
